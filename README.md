@@ -6,7 +6,7 @@
 🏫 Studying In Grade 11
 \
 📍Bangalore, India\
-🎨 Computer Science, Art, Robotics, Photography \
+🎨 Computer Science, Art, Robotics \
 💻 Learning ReactJS
 
 ## 🔗 Links
